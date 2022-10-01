@@ -1,0 +1,34 @@
+Batt,14,Sports,C:\Users\Fady\Desktop\Pictures\th (3).jpg,1,Height%12m^Weight%5gm
+Nokia 7A,13,Electronics,C:\Users\Fady\Desktop\Pictures\th (4).jpg,1,Height%12m^Weight%5gm^
+Samsung,13,Electronics,C:\Users\Fady\Desktop\Pictures\th (5).jpg,1,Height%12m^Weight%5gm^
+Hawaii,13,Electronics,C:\Users\Fady\Desktop\Pictures\th (6).jpg,1,Height%12m^Weight%5gm^
+Samsung 8B,13,Electronics,C:\Users\Fady\Desktop\Pictures\th (7).jpg,1,Height%12m^Weight%5gm^
+Nokia 3gb,13,Electronics,C:\Users\Fady\Desktop\Pictures\th (8).jpg,1,Height%12m^Weight%5gm^
+BlackBerry,13,Electronics,C:\Users\Fady\Desktop\Pictures\th (9).jpg,1,Height%12m^Weight%5gm^
+Samsung 98,13,Electronics,C:\Users\Fady\Desktop\Pictures\th (10).jpg,1,Height%12m^Weight%5gm^
+Samsung TV,13,Electronics,C:\Users\Fady\Desktop\Pictures\th (11).jpg,1,Height%12m^Weight%5gm^
+LG,13,Electronics,C:\Users\Fady\Desktop\Pictures\th (12).jpg,1,Height%12m^Weight%5gm^
+LG 3B,13,Electronics,C:\Users\Fady\Desktop\Pictures\th (13).jpg,1,Height%12m^Weight%5gm^
+Lacoste,13,Perfumes,C:\Users\Fady\Desktop\Pictures\th (14).jpg,1,Height%12m^Weight%5gm^
+Toma,13,Perfumes,C:\Users\Fady\Desktop\Pictures\th (15).jpg,1,Height%12m^Weight%5gm^
+Bast,13,Perfumes,C:\Users\Fady\Desktop\Pictures\th (16).jpg,1,Height%12m^Weight%5gm^
+Lacoste M,13,Perfumes,C:\Users\Fady\Desktop\Pictures\th (18).jpg,1,Height%12m^Weight%5gm^
+Brute 2,13,Perfumes,C:\Users\Fady\Desktop\Pictures\th (20).jpg,1,Height%12m^Weight%5gm^
+Hammar,1,Tools,C:\Users\Fady\Desktop\Pictures\th (50).jpg,4,Weight%2gm^
+American Footba,12,Sports,C:\Users\Fady\Desktop\Pictures\th.jpg,3,
+Porche 911,50000,Cars,C:\Users\Fady\Desktop\Pictures\th (47).jpg,1,^
+Kia,1600,Cars,C:\Users\Fady\Desktop\Pictures\th (48).jpg,2,Seats%4^
+Alahly T-shirt,5,Men's Wear,C:\Users\Fady\Desktop\Pictures\tkvr_alahly_zpsoiftpyvt.jpg,2,Size%Medium
+Maktaba,40,Furniture,C:\Users\Fady\Desktop\Pictures\th (35).jpg,2,Color%Brown^Size%40x50
+LG2,918,Televisions,C:\Users\Fady\Desktop\Pictures\th (12).jpg,1,^
+ay7aga,9000,Cars,C:\Users\Fady\Desktop\Pictures\th (44).jpg,0,^
+Dinky Toys,14,Toys,C:\Users\Fady\Desktop\Pictures\th (28).jpg,2,
+Outfit,50,Clothes,C:\Users\Fady\Desktop\Pictures\th (36).jpg,2,
+Testing,89,Perfumes,C:\Users\Fady\Desktop\Pictures\th (21).jpg,3,
+Foot,15,Cars,C:\Users\Fady\Desktop\Pictures\th (49).jpg,1,^^^^^^
+Nike Polo,14,Mens Wear,C:\Users\Fady\Desktop\Pictures\th (42).jpg,3,Size%Medium^Color%Blue
+Outfit2,50,Outfitting,C:\Users\Fady\Desktop\Pictures\th (38).jpg,1,
+Outfit3,32,Outfitting,C:\Users\Fady\Desktop\Pictures\th (38).jpg,1,
+American,38,Balls,C:\Users\Fady\Desktop\Pictures\th.jpg,1,^
+White Couch,89,Modern,C:\Users\Fady\Desktop\Pictures\th (29).jpg,1,^
+Kia2,89,Blues,C:\Users\Fady\Desktop\Pictures\th (41).jpg,1,^aas,12,Cars,C:\Users\Fady\Desktop\Pictures2\app1.jpg,1,

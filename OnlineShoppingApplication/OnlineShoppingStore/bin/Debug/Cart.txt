@@ -1,0 +1,3 @@
+karim,Batt,14,0,C:\Users\Fady\Desktop\Pictures\th (3).jpg,Sports
+Nokia 7A,13,0,C:\Users\Fady\Desktop\Pictures\th (4).jpg,Electronics
+Samsung,13,0,C:\Users\Fady\Desktop\Pictures\th (5).jpg,Electronics
